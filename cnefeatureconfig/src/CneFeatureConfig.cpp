@@ -35,6 +35,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include<cstring>
 #include "CneFeatureConfig.h"
 #include <stdlib.h>
+#include <android/log.h>
 
 /*------------------------------------------------------------------------------
 * Preprocessor Definitions and Constants
